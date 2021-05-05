@@ -45,3 +45,6 @@ console.log("This is my index js file");
         $('#table').append(covid);
     });
 });
+
+
+
